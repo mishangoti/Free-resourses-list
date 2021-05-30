@@ -1,4 +1,4 @@
-# Hello, This is Assets list, Contributted by more then 1500 People world wide.
+# Hello, This is Assets list, Contributted by more then 1500 Developers world wide.
 this repo cotains all the information about Ubuntu, node.js, anguler.js, git, laravel, mongo.db, xampp, apache2 etc.. 
 
 ## Table of Contents
